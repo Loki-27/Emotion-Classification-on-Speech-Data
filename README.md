@@ -2,7 +2,7 @@
 
 A robust machine learning system that classifies emotions from speech audio using advanced feature extraction and deep neural networks.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project implements an end-to-end speech emotion classification system capable of recognizing **7 emotional states** using a blend of traditional audio features and deep learning.
 
@@ -20,7 +20,7 @@ This project implements an end-to-end speech emotion classification system capab
 
 ---
 
-## 🎯 Features
+##  Features
 
 - **Real-time Audio Processing:** Supports formats like WAV, MP3, FLAC, M4A  
 - **Feature Extraction:** MFCC, Mel-spectrogram, Chroma, Spectral features  
@@ -31,7 +31,7 @@ This project implements an end-to-end speech emotion classification system capab
 
 ---
 
-## 🧠 Model Training Details
+##  Model Training Details
 
 ### Dataset Handling
 
@@ -50,7 +50,7 @@ This project implements an end-to-end speech emotion classification system capab
 
 ---
 
-## 🏋️ Model Architecture
+##  Model Architecture
 
 ```
 Input Layer (181 features)
@@ -92,7 +92,7 @@ Input Layer (181 features)
 
 ---
 
-## 🧱 Technical Pipeline
+##  Technical Pipeline
 
 ### Preprocessing
 
@@ -109,7 +109,7 @@ Input Layer (181 features)
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Streamlit Web App
 
@@ -121,15 +121,3 @@ Input Layer (181 features)
 🔗 [https://emotion-classifier-vhm.streamlit.app/](https://emotion-classifier-vhm.streamlit.app/)
 
 ---
-
-## 📦 Setup Instructions
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the app:
-   ```bash
-   streamlit run app.py
-   ```
